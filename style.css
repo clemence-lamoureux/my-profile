@@ -1,0 +1,93 @@
+/* Colors and fonts */
+
+body  {
+	background: white;
+	color: #C4698F;
+	font-family: avenir next condensed;
+	font-size: 25px;
+	}
+
+h1 	{
+     color: #6C0277;
+	}
+
+.lagrossediv {
+	width: 700px;
+	margin: 40px auto;
+	}
+
+@media (max-width: 760px) {
+	.lagrossediv {
+		width: 600px;
+		}
+
+	}
+
+@media (max-width: 500px) {
+	.lagrossediv {
+		width: 400px;
+		}
+	}
+
+#un {
+	background: lavender;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px purple;
+	text-align: center;
+	}
+
+
+#deux {
+	background: lavender;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px purple;
+	text-align: center;
+	}
+
+#trois {
+	background: lavender;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px purple;
+	text-align: center;
+	}
+
+#quatre {
+	background: lavender;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px purple;
+	text-align: center;
+	}
+
+.ligne {
+	list-style: none;
+	padding-left: 0px;
+	}
+
+.ligne li {
+	display: inline;
+	padding: 20px
+	}
+
+.ligne i {
+	font-size: 45px
+	}
+
+#lagrossediv {
+	background: white;
+	margin: 0px auto;
+	width: 900px
+	}
+
+
+img {
+	border-radius: 5px;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0.1)
+	}
